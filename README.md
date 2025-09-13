@@ -9,7 +9,7 @@ This project was built as part of a Frontend Intern Assignment.
 - Watchlist Grid 
 - Displays 6 stock cards per row (responsive layout). 
 - Each card shows Trading Symbol, Capital Market LTP, Futures LTP, % Change, and Last Updated time. 
-- Toggle button to switch between two views (CM ↔ Futures). 
+- Toggle button to switch between two views (CM ↔ Futures).  
 - Positive % change is highlighted in green, negative in red. 
 
 - Filters & Sorting 
