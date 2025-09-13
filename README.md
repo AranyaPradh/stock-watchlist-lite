@@ -48,7 +48,7 @@ How to Run the Project
 
 Clone the repo
 
-git clone https://github.com/yourusername/stock-watchlist-lite.git
+
 cd stock-watchlist-lite
 
 
