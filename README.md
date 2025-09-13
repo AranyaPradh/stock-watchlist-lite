@@ -44,3 +44,23 @@ This project was built as part of a Frontend Intern Assignment.
 - Jest + React Testing Library (for unit tests) 
 
 ---
+How to Run the Project
+
+Clone the repo
+
+git clone https://github.com/yourusername/stock-watchlist-lite.git
+cd stock-watchlist-lite
+
+
+Install dependencies
+
+npm install
+
+
+Start development server
+
+npm run dev
+
+
+Open http://localhost:5173
+ in your browser.
